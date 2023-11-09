@@ -13,9 +13,9 @@ const EvmosMainnetChainExplorer = "https://escan.live"
 
 // 
 // Replace with mainnet/testnet
-export const ContractAddress = EvmosTestnetContract;
-export const ChainId = EvmosTestnetChainID;
-export const ChainName = EvmosTestnetChainName;
-export const ChainRPC = EvmosTestnetChainRPC;
-export const ChainSymbol = EvmosTestnetChainSymbol;
-export const ChainExplorer = EvmosTestnetChainExplorer;
+export const ContractAddress = EvmosMainnetContract;
+export const ChainId = EvmosMainnetChainID;
+export const ChainName = EvmosMainnetChainName;
+export const ChainRPC = EvmosMainnetChainRPC;
+export const ChainSymbol = EvmosMainnetChainSymbol;
+export const ChainExplorer = EvmosMainnetChainExplorer;
