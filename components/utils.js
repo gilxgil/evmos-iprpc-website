@@ -1,5 +1,5 @@
 const EvmosTestnetContract = "0xca0b2d58F938a7bf7a49AC167b62D5e484b5bfd8"
-const EvmosMainnetContract = "0x6f588dBb2468D63172F979B7423c117bF808A80E"
+const EvmosMainnetContract = "0x3cA259791975660A71b7aecDB78c5fb3772A291f" // 0x6f588dBb2468D63172F979B7423c117bF808A80E
 const EvmosTestnetChainID = 9000
 const EvmosMainnetChainID = 9001
 const EvmosTestnetChainName = "Evmos Testnet"
